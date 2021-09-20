@@ -1,0 +1,54 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+#logo
+{
+    font-weight: 700;
+    color: #3E5D7E;
+    font-size: 30px;
+}
+#list
+{
+    color: #3E5D7E;
+    font-size: 20px;
+}
+h1
+{
+    color:  #3E5D7E;
+}
+#btn
+{
+    background-color:#3E5D7E;
+    color: #fff;
+    border-radius: 10%;
+}
+img
+{
+    height: 250px;
+    width: 280px;
+}
+section
+{
+    width: 100%;
+}
+#contact-section
+{
+    min-height: 60vh;
+}
+#borders
+{
+    border: 2px solid #3E5D7E;
+}
+form
+{
+    border: 2px solid  #3E5D7E;
+    border-radius: 10%; 
+}
+
+
+
